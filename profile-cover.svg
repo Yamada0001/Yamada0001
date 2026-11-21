@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320" role="img" aria-labelledby="title desc">
+  <title id="title">Tayama · @Yamada0001</title>
+  <desc id="desc">FluxCraft. Minecraft server plugins built with Java, Paper and Folia. One YAML configuration branches into Inventory, Forms and Dialogs.</desc>
+  <style>
+    .route { stroke-dasharray: 1; animation: trace 1.6s cubic-bezier(.2,.7,.3,1) both; }
+    .branch { animation-delay: .35s; }
+    @keyframes trace { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .route { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="cover"><rect width="840" height="320" rx="20"/></clipPath>
+    <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f9f0df"/><stop offset="1" stop-color="#efdbc0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#cover)">
+    <rect width="840" height="320" fill="url(#paper)"/>
+    <path d="M477 0H840V320H419Q485 225 477 0Z" fill="#283e34"/>
+    <path d="M460 320H840V273H804V279H754V286H688V279H624V297H545V305H460Z" fill="#354c3e"/>
+    <g fill="#e2bd8d" opacity=".5"><rect x="509" y="35" width="3" height="3"/><rect x="793" y="37" width="3" height="3"/><rect x="820" y="142" width="3" height="3"/><rect x="756" y="55" width="2" height="2"/><rect x="502" y="252" width="2" height="2"/></g>
+    <g fill="#322c25">
+      <text x="44" y="126" font-family="Georgia,serif" font-weight="bold" font-size="84" letter-spacing="-2">Tayama</text>
+      <text x="48" y="165" font-family="monospace" font-size="21" fill="#854a33">@Yamada0001 · FluxCraft</text>
+      <path d="M48 192h58" stroke="#a75d42" stroke-width="2"/>
+      <text x="48" y="226" font-family="system-ui,sans-serif" font-size="23">Minecraft server plugins</text>
+      <text x="48" y="262" font-family="monospace" font-size="17" fill="#455743">Java / Paper / Folia</text>
+    </g>
+    <g font-family="monospace">
+      <text x="524" y="65" fill="#f3dfbd" font-size="20">MiaoMenu</text>
+      <text x="524" y="92" fill="#c9cbb0" font-size="14">One config, three ways to open.</text>
+      <rect x="524" y="160" width="69" height="36" rx="5" fill="#eed8ae"/>
+      <text x="558.5" y="183" fill="#304034" text-anchor="middle" font-size="16">YAML</text>
+      <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path class="route" pathLength="1" d="M593 178H638" stroke="#e0a477" stroke-width="2"/>
+        <path class="route branch" pathLength="1" d="M638 178V130H693M638 178H693M638 178V226H693" stroke="#a9bd9b" stroke-width="2"/>
+      </g>
+      <circle cx="638" cy="178" r="4" fill="#e0a477"/>
+      <g fill="#f3dfbd" font-size="17">
+        <text x="707" y="136">Inventory</text>
+        <text x="707" y="184">Forms</text>
+        <text x="707" y="232">Dialogs</text>
+      </g>
+    </g>
+    <g transform="translate(769 270)">
+      <path d="M0 5H5V0H10V5H15V10H19V15H22V20H-3V15H0Z" fill="#779174"/>
+      <path d="M5 0h5v5H5zM0 10h6v4H0zM12 15h7v4h-7z" fill="#e9dfc8"/>
+      <path d="M7 20h5v6H7z" fill="#ba845d"/>
+    </g>
+  </g>
+</svg>

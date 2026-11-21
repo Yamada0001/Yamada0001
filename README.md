@@ -2,7 +2,9 @@
 
 # Tayama
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=2F81F7&center=true&vCenter=true&width=600&height=45&lines=Minecraft%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91;Java%20%C2%B7%20Paper%20%C2%B7%20Folia;%E6%8A%8A%E9%80%89%E6%8B%A9%E6%9D%83%E4%BA%A4%E5%9B%9E%E7%BB%99%E6%9C%8D%E4%B8%BB" alt="Minecraft 服务端插件开发 · Java / Paper / Folia" />
+<img src="./profile-cover.svg" width="840" alt="Tayama（@Yamada0001）· FluxCraft。Minecraft 服务端插件开发：Java、Paper 和 Folia。MiaoMenu 用同一份 YAML 配置驱动背包菜单、表单和对话框。" />
+
+**把选择权交回给服主。**
 
 <sub>恋旧是与生俱来的礼物，期待是重逢前的希望</sub>
 
