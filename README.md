@@ -30,7 +30,7 @@
 
 | 项目 | 说明 | 技术 |
 | :-- | :-- | :-- |
-| **[LeavesRere](https://github.com/Yamada0001/LeavesRere)** | 魔改魔改再魔改！让AI接受改造LeavesMC核心 | `Java 25` `Paper分支` |
+| **[LeavesRere](https://github.com/Yamada0001/SnowBall)** | SnowBall核心基于LeavesMC核心 并通过AI学习强化功能性与实用性 | `Java 25` `Paper分支` |
 | **[MiaoMenu](https://github.com/Yamada0001/MiaoMenu)** | 跨平台菜单解决方案。一套配置同时驱动 Java 版背包菜单与基岩版表单，带条件系统、动作系统、热重载与 BungeeCord / Velocity 跨服 | `Java 25` `Paper 26.2` `Folia` |
 | **[VillagerRevolution](https://github.com/Yamada0001/VillagerRevolution)** | 给村民 AI 加上更多样的行为与交互，保持 Folia 兼容 | `Java 25` `Paper 26.2` |
 | **[Fxchat](https://github.com/Yamada0001/Fxchat)** | 聊天格式插件。十六进制颜色、PlaceholderAPI 变量、生物群系占位符、玩家头像渲染，配置热更新 | `Java 21+` `Paper` |
